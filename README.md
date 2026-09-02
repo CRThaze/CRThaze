@@ -1,6 +1,9 @@
 Hi, I’m @CRThaze (Diego Fernando Carrión)
 
-I mostly maintain my personal projects on [Codeberg](https://codeberg.org/CRThaze) & [SDF](https://git.sdf.org/CRThaze).
+I mostly maintain my personal projects on: 
+- [Codeberg](https://codeberg.org/CRThaze)
+- [SDF](https://git.sdf.org/CRThaze)
+- [My Own Server](https://git.xn--e-0fa.net)
 
 A few projects are over here for various legacy/compatability/discoverability reasons.
 
